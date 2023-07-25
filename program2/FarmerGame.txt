@@ -1,0 +1,83 @@
+
+
+South Bank: 
+
+North Bank: 
+
+The farmer is on the south bank.
+
+What should the farmer take with him?: chicken
+
+
+The farmer takes the chicken with him.
+
+
+South Bank: 
+
+North Bank: 
+
+The farmer is on the north bank.
+
+What should the farmer take with him?: nothing
+
+The farmer takes nothing with him.
+
+
+South Bank: 
+
+North Bank: 
+
+The farmer is on the south bank.
+
+What should the farmer take with him?: fox
+
+
+The farmer takes the fox with him.
+
+
+South Bank: 
+
+North Bank: 
+
+The farmer is on the north bank.
+
+What should the farmer take with him?: chicken
+
+The farmer takes the chicken with him.
+
+
+South Bank: 
+
+North Bank: 
+
+The farmer is on the south bank.
+
+What should the farmer take with him?: grain
+
+
+The farmer takes the grain with him.
+
+
+South Bank: 
+
+North Bank: 
+
+The farmer is on the north bank.
+
+What should the farmer take with him?: nothing
+
+The farmer takes nothing with him.
+
+
+South Bank: 
+
+North Bank: 
+
+The farmer is on the south bank.
+
+What should the farmer take with him?: chicken
+
+
+The farmer takes the chicken with him.
+Yay! The farmer got his fox, chicken, and grain safely across the river! You won!
+Do you want to playAgain (y/n): n
